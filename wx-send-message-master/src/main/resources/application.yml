@@ -1,0 +1,11 @@
+server:
+    port: 7779
+    servlet:
+        context-path: /
+        session:
+            timeout: 3
+wx:
+    appID: wx6eda6c21b68df564
+    appsecret: a8abac4af3c44650d849559ea8c9be4c
+    touser: ofr-g6gt-AbIGgzCjqurzbm-2JYw
+    template_id: miV3oTNZS9UooBg7pokvntfBqPh7OPgHteRmt3snxWY
